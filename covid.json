@@ -1,12 +1,22 @@
 [
-    {
-      "name": "Covid Video 1",
-      "covidvideo": "https://www.youtube.com/embed/MpuBattXUWc?rel=0",
-      "poster": "https://www.downtownfresno.org/_files/images/fresno-county-super-intend.png"
-    },
-    {
-      "name": "Covid Video 2",
-      "covidvideo": "https://www.youtube.com/embed/HpZgwHU1GcI",
-      "poster": "https://www.downtownfresno.org/_files/images/fresno-county-super-intend.png"
-    }
-  ]
+  {
+    "name": "CTEC High School Face Shields",
+    "covidvideo": "https://www.youtube.com/embed/MpuBattXUWc?rel=0",
+    "poster": "https://www.downtownfresno.org/_files/images/fresno-county-super-intend.png"
+  },
+  {
+    "name": "Unified at Home PSA - Spanish",
+    "covidvideo": "https://www.youtube.com/embed/IKm3ZIUnyms",
+    "poster": "https://www.downtownfresno.org/_files/images/fresno-county-super-intend.png"
+  },
+  {
+    "name": "Unified at Home PSA - English",
+    "covidvideo": "https://www.youtube.com/embed/Wr8SpjXfG1I",
+    "poster": "https://www.downtownfresno.org/_files/images/fresno-county-super-intend.png"
+  },
+  {
+    "name": "Education Matters Minute - Gardening",
+    "covidvideo": "https://www.youtube.com/embed/FjsvzfF3VBU",
+    "poster": "https://www.downtownfresno.org/_files/images/fresno-county-super-intend.png"
+  },
+]
