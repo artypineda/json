@@ -1,12 +1,12 @@
 [
     {
-      "name": "Video 1",
+      "name": "Covid Video 1",
       "covidvideo": "https://www.youtube.com/embed/MpuBattXUWc?rel=0",
       "poster": "https://www.downtownfresno.org/_files/images/fresno-county-super-intend.png"
     },
     {
-      "name": "Video 2",
-      "covidvideo": "https://www.youtube.com/embed/MpuBattXUWc?rel=0",
+      "name": "Covid Video 2",
+      "covidvideo": "https://www.youtube.com/embed/HpZgwHU1GcI",
       "poster": "https://www.downtownfresno.org/_files/images/fresno-county-super-intend.png"
     }
   ]
