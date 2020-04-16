@@ -1,12 +1,12 @@
 [
     {
       "name": "Video 1",
-      "trailer": "https://www.youtube.com/embed/MpuBattXUWc?rel=0",
+      "video": "https://www.youtube.com/embed/MpuBattXUWc?rel=0",
       "poster": "https://www.downtownfresno.org/_files/images/fresno-county-super-intend.png"
     },
     {
       "name": "Video 2",
-      "trailer": "https://www.youtube.com/embed/MpuBattXUWc?rel=0",
+      "video": "https://www.youtube.com/embed/MpuBattXUWc?rel=0",
       "poster": "https://www.downtownfresno.org/_files/images/fresno-county-super-intend.png"
     }
   ]
